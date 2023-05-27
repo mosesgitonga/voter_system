@@ -1,0 +1,4 @@
+Name: moses gitonga
+Age: 20	
+Location: nyeri	
+ID Number: 4302012	
