@@ -8,12 +8,13 @@ the data will not be collected.
 */
 void store_data_in_file(FILE *file_name, voters_data *data)
 {
-	file_name = fopen("voter data storage.txt", "w+");
+	file_name = fopen("voter data storage.txt", "a");
 	
 	if (file_name == NULL)
 	{
 		printf("error in opening file");
 	}
+	fprintf(file_name, "\n");
 
 	collect_data(data);
 
