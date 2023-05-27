@@ -1,20 +1,20 @@
 
-Name: Moses Gitonga
-Age: 20	
+Name: mary muthoni
+Age: 34	
 Location: Nairobi	
-ID Number: 2394021	
+ID Number: 3214566	
 
-Name: Victor Mwangi
-Age: 35	
-Location: Mombas	
-ID Number: 2030293	
-
-Name: Esther  Kithome
-Age: 42	
-Location: Kitui	
-ID Number: 234566	
-
-Name: Mercy Wairimu
+Name: stella kimani
 Age: 18	
 Location: Nyeri	
-ID Number: 3456789	
+ID Number: 8992292	
+
+Name: moses gitonga
+Age: 20	
+Location: nyeri	
+ID Number: 2929202	
+
+Name: julius githinji
+Age: 56	
+Location: Mombasa	
+ID Number: 23345556	
