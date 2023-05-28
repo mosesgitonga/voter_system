@@ -37,3 +37,13 @@ Name: mercy wangui
 Age: 34	
 Location: kirinyaga	
 ID Number: 8273892	
+
+Name: victor kinyua
+Age: 34	
+Location: nairobi	
+ID Number: 5678990	
+
+Name: moses kinua
+Age: 45	
+Location: nakuru	
+ID Number: 234567	
