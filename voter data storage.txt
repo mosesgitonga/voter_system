@@ -1,4 +1,3 @@
-
 Name: mary muthoni
 Age: 34	
 Location: Nairobi	
@@ -18,3 +17,23 @@ Name: julius githinji
 Age: 56	
 Location: Mombasa	
 ID Number: 23345556	
+
+Name: benah summer
+Age: 19	
+Location: nyeri	
+ID Number: 83940302	
+
+Name:  gitonga
+Age: 20	
+Location: nyeri	
+ID Number: 293	
+
+Name:  girtk
+Age: 20	
+Location: nyeri	
+ID Number: 82891	
+
+Name: mercy wangui
+Age: 34	
+Location: kirinyaga	
+ID Number: 8273892	

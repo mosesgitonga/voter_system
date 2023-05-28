@@ -16,6 +16,7 @@ typedef struct node{
 }voters_data;
 void collect_data(voters_data *data);
 void freedata(voters_data *data);
+void search_voter(voters_data *data);
 
 void store_data_in_file(FILE *file_name, voters_data *data);
 
