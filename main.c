@@ -4,7 +4,7 @@ int main()
 {
 	voters_data data;
 	int a;
-	printf("Enter\n1 to collect data\n2 to search name:\n");
+	printf("Enter: \n1 to collect data\n2 to search name\n");
 	scanf("%d", &a);
 	getchar();
 	if (a == 1)

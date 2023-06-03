@@ -5,7 +5,7 @@ void search_voter(voters_data *data)
 	char line[256];
 	char search_name[100];
 
-	printf("Enter name to search for: \n");
+	printf("Enter firstname of name to search for: \n");
 	fflush(stdout);
 	fgets(search_name, 100, stdin);
 	search_name[strcspn(search_name, "\n")] = '\0';

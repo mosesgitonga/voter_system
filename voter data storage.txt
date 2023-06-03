@@ -47,3 +47,8 @@ Name: moses kinua
 Age: 45	
 Location: nakuru	
 ID Number: 234567	
+
+Name: elius manga
+Age: 78	
+Location: muranga	
+ID Number: 8299020	
